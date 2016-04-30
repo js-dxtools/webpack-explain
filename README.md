@@ -9,6 +9,8 @@
 
 ### This is a WIP, just started hacking on this. :)
 
-Explains your webpack config.
+Explains your webpack config. You'll basically say `webpack-explain <your-config>` and it'll give you output like the following:
+
+![explain](https://cloud.githubusercontent.com/assets/3755413/14936807/c1833918-0ef5-11e6-8473-20878728a5f3.png)
 
 
